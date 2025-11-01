@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "primary": "#ff78b5",
+    "secondary": "#ff78f8",
+    "accent": "#ff7f78",
+    "background": "#ffffff",
+    "text": "#1a1a1a",
+    "tone": "friendly"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Your Game, Your Rules. Build It with AI.",
+      "subheadline": "Turn ideas into interactive experiences — no coding required.",
+      "cta": {
+        "label": "Start Creating Now",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "background": {
+        "color": "#ff78b5",
+        "pattern": "gradient"
+      },
+      "id": "hero-1"
+    },
+    {
+      "type": "problem",
+      "eyebrow": "The Challenge",
+      "headline": "Game Development is Hard. We Make it Easy.",
+      "bullets": [
+        "Skip the steep learning curves of coding and design.",
+        "Say goodbye to the hassle of integrating complex game mechanics.",
+        "Overcome the barrier of turning your vision into a playable game."
+      ],
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none"
+      },
+      "id": "problem-2"
+    },
+    {
+      "type": "solution",
+      "eyebrow": "The Solution",
+      "headline": "Intuitive AI That Understands Your Vision",
+      "bullets": [
+        "From concept to creation, our AI handles it all.",
+        "Generate graphics, mechanics, and levels with simple inputs.",
+        "Export directly to popular game engines."
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none"
+      },
+      "id": "solution-3"
+    },
+    {
+      "type": "benefits",
+      "eyebrow": "Why Us?",
+      "headline": "Build, Play, Share — All in One Place",
+      "items": [
+        {
+          "title": "Rapid Prototyping",
+          "description": "Go from idea to prototype in hours, not weeks."
+        },
+        {
+          "title": "Customizable AI",
+          "description": "Fine-tune your game with intuitive AI controls."
+        },
+        {
+          "title": "Seamless Export",
+          "description": "One-click export to Unity, Godot, and more."
+        }
+      ],
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none"
+      },
+      "id": "benefits-4"
+    },
+    {
+      "type": "cta",
+      "headline": "Ready to Build Your Dream Game?",
+      "subheadline": "Start your journey with ai game builder today.",
+      "cta": {
+        "label": "Dive In",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "secondaryCta": {
+        "label": "Learn More",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "background": {
+        "color": "#ff7f78",
+        "pattern": "none"
+      },
+      "id": "cta-5"
+    }
+  ],
+  "goal": "lead-collection"
+}
